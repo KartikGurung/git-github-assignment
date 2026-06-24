@@ -4,5 +4,15 @@ This is my first Git and GitHub assignment.
 My name is Kartik.
 I am learning how to track code using Git and push code to Gi
 tHub.
-Commands I Practiced- git init- git status- git add .- git commit -m "message"- git log --oneline- git remote add origin <repo-url>- git branch -M main- git push -u origin main- git push
-Important Line
+## Commands I Practiced
+- git init
+- git status
+- git add .
+- git commit -m "message"
+- git log --oneline
+- git remote add origin <repo-url>
+- git branch -M main
+- git push -u origin main
+- git push
+- git clone add repo-link
+#Important Line
